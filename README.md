@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Kumar Saw</h1>
-<h3 align="center">💡 Passionate about AI/ML, full-stack development, and data-driven solutions</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sawkunal&label=Profile%20views&color=0e75b6&style=flat" alt="sawkunal" /> </p>
+<h3 align="center">🎓 Final-year Computer Science student at KIIT University 💡 Passionate about AI/ML, full-stack development, and data-driven solutions 🧠 Constantly exploring and implementing cutting-edge technologies 🌍 Active open-source contributor and lifelong learner</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sawkunal" alt="sawkunal" /></a> </p>
 
