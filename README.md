@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kunal Kumar Saw</h1>
 <h3 align="center">
-  <h3>🎓 Final-year Computer Science student at KIIT University </h3>
-  <h3>💡 Passionate about AI/ML, full-stack development, and data-driven solutions </h3>
-  <h3> 🧠 Constantly exploring and implementing cutting-edge technologies </h3> 
-  <h3> 🌍 Active open-source contributor and lifelong learner</h3>
+  <h3>💼 I'm a Software Engineering & Operations Enthusiast with a creative approach to problem-solving.</h3>
+  <h3>🌱 Passionate about building elegant solutions using code, logic, and a hint of design thinking.</h3>
+  <h3>🔍 I enjoy exploring new technologies, streamlining workflows, and translating ideas into functional software.</h3> 
+  <h3>📌 Actively seeking opportunities to apply and grow my skills in web development, AI, and systems engineering.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sawkunal" alt="sawkunal" /></a> </p>
 
