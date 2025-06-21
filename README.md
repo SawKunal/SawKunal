@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kunal Kumar Saw</h1>
 <h4 align="center">
-  <h4>💼 I'm a Software Engineering & Operations Enthusiast with a creative approach to problem-solving.</h4>
-  <h4>🌱 Passionate about building elegant solutions using code, logic, and a hint of design thinking.</h4>
-  <h4>🔍 I enjoy exploring new technologies, streamlining workflows, and translating ideas into functional software.</h4> 
-  <h4>📌 Actively seeking opportunities to apply and grow my skills in web development, AI, and systems engineering.</h4>
+  💼 I'm a Software Engineering & Operations Enthusiast with a creative approach to problem-solving.
+  🌱 Passionate about building elegant solutions using code, logic, and a hint of design thinking.
+  🔍 I enjoy exploring new technologies, streamlining workflows, and translating ideas into functional software. 
+  📌 Actively seeking opportunities to apply and grow my skills in web development, AI, and systems engineering.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sawkunal" alt="sawkunal" /></a> </p>
 
