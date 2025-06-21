@@ -7,7 +7,7 @@
   🔍 I enjoy exploring new technologies, streamlining workflows, and translating ideas into functional software.
 <h4 align="center">
   📌 Actively seeking opportunities to apply and grow my skills in web development, AI, and systems engineering.
-
+</h4>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sawkunal" alt="sawkunal" /></a> </p>
 
 - 📫 How to reach me **sawkunal556@gmail.com**
