@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/kunalkrsaw/">
   <img align="left" alt="Kunal's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://g.dev/pratyaypatra_kiit">
+<a href="https://g.dev/kunalsaw_kiit">
   <img align="left" alt="Kunal's Google Developer Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
 </a>
 <a href="mailto:kunalsaw556@gmail.com">
@@ -13,7 +13,7 @@
 <br />
 <br />
 
-I'm an enthusiastic Information Technology undergraduate (graduating in 2026) with a strong passion for **Software Development**, **Machine Learning**, and **Full-Stack Development**. I love transforming complex problems into elegant, efficient solutions and am always excited to learn, adapt, and contribute to innovative projects.
+I'm an enthusiastic Computer Science and Engineering undergraduate (graduating in 2026) with a strong passion for **Software Development**, **Machine Learning**, **Full-Stack Development** and **Data Analytics**. I love transforming complex problems into elegant, efficient solutions and am always excited to learn, adapt, and contribute to innovative projects.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=perilousTF&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Pratyay's GitHub Stats" />
