@@ -15,11 +15,6 @@
 
 I'm an enthusiastic Computer Science and Engineering undergraduate (graduating in 2026) with a strong passion for **Software Development**, **Machine Learning**, **Full-Stack Development** and **Data Analytics**. I love transforming complex problems into elegant, efficient solutions and am always excited to learn, adapt, and contribute to innovative projects.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perilousTF&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Pratyay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perilousTF&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🛠️ My Technical Toolkit
